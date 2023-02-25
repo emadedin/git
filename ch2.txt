@@ -1,1 +1,3 @@
-this is chapter 2, hello world 2 
+this is chapter 2, hello world 2
+
+missed up again! 
